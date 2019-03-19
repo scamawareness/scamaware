@@ -1,0 +1,2 @@
+# scamaware
+GitHub Pages
